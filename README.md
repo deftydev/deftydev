@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with learning of latest advancements in fields of AI
 - 💬 Ask me about Python, Statistics, ML, Sql, Django
 - 📫 How to reach me: devansh.chatgpt@gmail.com
-- ⚡ Fun fact: I am trying implementing MLOPS pipeline and if you are on same page contact me
+- ⚡ Fun fact: I never get backed down by a situation 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-gupta-145077189/)
