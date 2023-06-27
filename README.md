@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">Python enthusiast & Aspiring Data Scientist</h3>
+<p align="left"> <a href="https://twitter.com/Devansh44059208" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="deftdev" /></a> </p>
 
 - 🔭 I’m currently working on MLOPS
 - 🌱 I’m currently learning Deep learning
@@ -13,3 +14,4 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-gupta-145077189/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Devansh44059208)
 <a href="https://www.hackerrank.com/devanshgupta7921?hr_r=1" target="blank"><img align="fixed" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deftdev" height="30" width="40" /></a>
+<a href="https://leetcode.com/deftdev/" target="blank"><img align="fixed" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deftdev" height="30" width="40" /></a>
