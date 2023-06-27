@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on MLOPS
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Machine learning projects & creation of web applications
-- 🤔 I’m looking for help with Python related queries 
+- 🤔 I’m looking for help with learning of latest advancements in fields of AI
 - 💬 Ask me about Python, Statistics, ML, Sql, Django
 - 📫 How to reach me: devansh.chatgpt@gmail.com
 - ⚡ Fun fact: I am trying implementing MLOPS pipeline and if you are on same page contact me
