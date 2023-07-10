@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">Python enthusiast & Aspiring Data Scientist</h3>
-<img src="https://www.seekpng.com/png/detail/134-1349366_data-science-data-science-icon.png" alt="Data Science" width="500" height="300">
+<center><img src="https://www.seekpng.com/png/detail/134-1349366_data-science-data-science-icon.png" alt="Data Science" width="500" height="300"></center>
 
 <p align="left"> <a href="https://twitter.com/Devansh44059208" target="blank"><img src="https://img.shields.io/twitter/follow/deftdev?logo=twitter&style=for-the-badge" alt="deftdev" /></a> </p>
 
