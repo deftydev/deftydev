@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with learning of latest advancements in fields of AI
 - 💬 Ask me about Python, Statistics, ML, Sql, Django, Data structures & Algorithms
 - 📫 How to reach me: devansh.chatgpt@gmail.com
-- ⚡ Fun fact: Always ready to learn new technologies  <h3>Posted Perceptron package on PyPI website - https://pypi.org/project/perceptron-pkg-deftydev/ </h3>
+- ⚡ Fun fact: Paradox  <h3>Posted Perceptron package on PyPI website - https://pypi.org/project/perceptron-pkg-deftydev/ </h3>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-gupta-145077189/)
