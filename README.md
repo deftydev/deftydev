@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/Devansh44059208" target="blank"><img src="https://img.shields.io/twitter/follow/deftdev?logo=twitter&style=for-the-badge" alt="deftdev" /></a> </p>
 
-- 🔭 I’m currently working on MLOPS, MLFLOW AND DVC
-- 🌱 I’m currently learning Deep learning
+- 🔭 I’m currently working on MLOPS and CV
+- 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on Machine learning projects & creation of web applications
 - 🤔 I’m looking for help with learning of latest advancements in fields of AI
 - 💬 Ask me about Python, Statistics, ML, Sql, Django, Data structures & Algorithms
