@@ -7,7 +7,6 @@
 - 🔭 I’m currently working with CV , LLM 
 - 🌱 I’m currently building Agentic AI
 - 👯 I’m looking to collaborate on Machine learning projects & creation of web applications
-- 🤔 I’m looking for help with learning of latest advancements in fields of AI
 - 💬 Ask me about Python, Statistics, ML, Sql, Django, Data structures & Algorithms
 - 📫 How to reach me: devansh.chatgpt@gmail.com
    <h3>Posted Perceptron package on PyPI website - https://pypi.org/project/perceptron-pkg-deftydev/ </h3>
