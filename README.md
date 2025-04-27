@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">Python enthusiast & Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/Devansh44059208" target="blank"><img src="https://img.shields.io/twitter/follow/deftdev?logo=twitter&style=for-the-badge" alt="deftdev" /></a> </p>
 
-- 🔭 I’m currently working with CV , LLM 
+- 🔭 I’m currently working with GEN AI,CV & AGENTS
 - 🌱 I’m currently building Agentic AI
 - 👯 I’m looking to collaborate on Machine learning projects & creation of web applications
 - 💬 Ask me about Python, Statistics, ML, Sql, Django, Data structures & Algorithms
