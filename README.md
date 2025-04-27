@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist & GEN AI Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/Devansh44059208" target="blank"><img src="https://img.shields.io/twitter/follow/deftdev?logo=twitter&style=for-the-badge" alt="deftdev" /></a> </p>
 
